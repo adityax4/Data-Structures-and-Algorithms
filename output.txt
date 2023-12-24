@@ -1,1 +1,1 @@
-no. of digits are: 5
+The reverse is 54321

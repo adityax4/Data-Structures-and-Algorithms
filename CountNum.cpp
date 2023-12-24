@@ -2,8 +2,7 @@
 using namespace std;
 
 int func(int n){
-    int x=n;
-    int count=0;
+    int x=n,count=0;
     while (x!=0)
     {
         x=x/10;
